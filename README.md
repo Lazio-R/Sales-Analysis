@@ -3,6 +3,11 @@
 ## Project Overview
 This project analyzes daily trading data for a single product sold at a large retail store. The dataset includes daily records of sales revenue, cost of sales, and quantity sold. The goal is to develop key performance metrics, evaluate promotional impact, and uncover actionable insights to guide pricing and sales strategies.
 
+## Material and Data Sources
+- Sales Analysis Case Study
+- Sales Analysis Dataset
+- Sales Analysis Fical Table
+
 ## Metric Development and PED Measurement
 
 - Daily unit price
@@ -16,3 +21,9 @@ This project analyzes daily trading data for a single product sold at a large re
 - Interactive charts
 - KPI dashboards
 - Summary reports with final verdict
+
+## Tools & Technologies Used
+
+- Excel - for metric and ped calculations
+- Databricks - for processing the sql code
+- Power BI/Word/PDF - for final report and verdict
