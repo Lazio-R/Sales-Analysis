@@ -7,6 +7,6 @@ This project analyzes daily trading data for a single product sold at a large re
 
 ## Visualization & Reporting
 
---Interactive charts (line, bar, scatter, boxplots)
---KPI dashboards
---Summary reports with strategic recommendations
+-Interactive charts (line, bar, scatter, boxplots)
+-KPI dashboards
+-Summary reports with strategic recommendations
